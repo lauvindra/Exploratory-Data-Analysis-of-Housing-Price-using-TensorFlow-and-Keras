@@ -41,5 +41,5 @@ Exploratory Data Analysis refers to the critical process of performing initial i
 # 6.References 
 * https://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics
 * https://keras.io/getting_started/ecosystem/
-*
+
 Check my EDA in the notebook for Housing Price implementation.
