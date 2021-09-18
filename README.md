@@ -35,9 +35,11 @@ Keras Tuner is an easy-to-use, scalable hyperparameter optimization framework th
 *  So, one can say that ANNs are much more sophisticated than multiple linear regression.
 
 # 5.Exploratory Data Analysis
-Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.It is a one of the crucial step in data science that allows us to achieve certain insights and statistical measure that is essential for the business continuity, stockholders and data scientists
+Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.It is a one of the crucial step in data science that allows us to achieve certain insights and statistical measure that is essential for the business continuity, stockholders and data scientists.
 
 
 # 6.References 
 * https://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics
 * https://keras.io/getting_started/ecosystem/
+*
+Check my EDA in the notebook for Housing Price implementation.
