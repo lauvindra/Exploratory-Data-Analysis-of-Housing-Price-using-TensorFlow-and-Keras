@@ -15,6 +15,8 @@ git clone https://github.com/lauvindra/Exploratory-Data-Analysis-of-Housing-Pric
 * Predicting house price based on the features of the house.
 
 # 3.TensorFlow & Keras
+  <img src="Images/TFKeras.png" width="430" height="200">
+  
 TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML-powered applications.
 TensorFlow was originally developed by researchers and engineers working on the Google Brain team within Google's Machine Intelligence Research organization to conduct machine learning and deep neural networks research.
 
@@ -24,7 +26,7 @@ Keras Tuner is an easy-to-use, scalable hyperparameter optimization framework th
 
 # 4.Artificial Neural network
 
-
+  <img src="Images/ANN_layers.png" width="480" height="250">
 
 * Neural networks adapt themselves to the changing input so that the network generates the best possible result without the need to redesign the output criteria.
 *  The functionality of neural networks is often compared to the one of the multiple linear regression, where one uses multiple input features, also called independent variables, to predict the output variable, the dependent variable. 
